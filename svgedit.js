@@ -1,3 +1,4 @@
+/* mime: text/plain */
 function touchHandler(n) {
   var u = n.changedTouches,
     t = u[0],
